@@ -1,7 +1,7 @@
 ## 🧾 LCMS - Laravel Content Management System
 
 -   **Project Name:** LCMS (Laravel Content Management System)
--   **Version:** 1.0.0
+-   **Version:** 1.0.1
 -   **Author:** Towfique Elahe
 -   **Author Website:** [https://towfique-elahe.framer.website/](https://towfique-elahe.framer.website/)
 -   **License:** MIT
@@ -116,6 +116,12 @@ app/
 -   Fully working frontend and backend CMS
 -   SEO metadata handling
 -   Admin panel with CRUD for posts, pages, services
+
+### v1.0.1
+
+-   Added devDependencies tailwind and postcss
+-   Added custom theme colors and fonts in tailwind config
+-   Updated styles of every pages in fronend, admin portal, auth pages with tailwind + custom theme
 
 ---
 
